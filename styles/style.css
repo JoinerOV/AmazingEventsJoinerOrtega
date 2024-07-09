@@ -1,0 +1,31 @@
+.navbar, .footer {
+    background-color: #ccc;
+}
+.imglog {
+    width: 90px;
+}
+.navbar-collapse{
+    justify-content: end;
+}
+.carousel {
+    background-color: #eee;
+}
+.carousel-inner {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+}
+.card {
+    margin-bottom: 20px;
+    min-height: 400px;
+}
+.card-img-top {
+    height: 204.72px;
+}
+
+.card-text {
+    min-height: 71.97px;
+}
+.footer {
+    padding: 10px;
+}
